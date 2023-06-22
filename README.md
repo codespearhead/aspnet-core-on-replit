@@ -1,9 +1,9 @@
-<h1 align="center"><a href="https://github.com/codespearhead/baileys-quickstart">ASP.NET Core on Replit®</a></h1>
+<h1 align="center"><a href="https://github.com/codespearhead/aspnet-core-on-replit/">ASP.NET Core on Replit®</a></h1>
 
 <p align="center">
     <br>
   <a href="https://www.flaticon.com/free-icon/layout_721644">
-    <img src="https://cdn-icons-png.flaticon.com/512/721/721644.png" width="150px" height="120px" fill="white"/>
+    <img src="https://cdn-icons-png.flaticon.com/512/721/721644.png" width="150px" height="120px"/>
   </a>
   <br><br>
   Run ASP.NET Core on Replit®
