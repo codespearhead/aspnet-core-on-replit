@@ -22,12 +22,12 @@
 3. Type the desired name of your solution when prompted in the terminal
 4. Click the run button again to start the project
 
-## How it works
+## Project Setup
 
 - **replit.nix**: sets the version of the .NET SDK
-- **.replit**: makes the run button execute file `runner.bash`
-- **runner.bash**: creates a new ASP.NET Core solution or run the existing one
-- **project_name.replit**: stores the name of the created solution
+- **.replit**: configures the 'Run' button to execute the entrypoint.
+- **entrypoint.sh**: creates a new ASP.NET Core solution and saves its name or runs the existing one.
+- **project_name.replit**: stores the name of the created solution on its first line.
 
 ## Credits
 
