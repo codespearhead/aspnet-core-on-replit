@@ -15,7 +15,7 @@
 ## Quickstart Guide
 
 > [!NOTE]
-> This project is set to use the latest LTS version of the .NET SDK
+> This project is set up to use the latest LTS version of the .NET SDK
 
 1. Fork this repository.
 2. Click the run button.
