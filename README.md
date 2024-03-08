@@ -17,10 +17,14 @@
 > [!NOTE]
 > This project is set up to use the latest LTS version of the .NET SDK
 
-1. Fork this repository.
-2. Click the run button.
-3. Type the desired name of your solution when prompted in the terminal.
-4. Click the run button again to start the project.
+1. Click the button below to open this project on Repl.it:
+
+[![Run on Repl.it](https://repl.it/badge/github/Ta180m/Python-Resources)](https://replit.com/@codespearhead/ASPNET-Core)
+
+2. Fork it.
+3. Click the run button.
+4. Type the desired name of your solution when prompted in the terminal.
+5. Click the run button again to start the project.
 
 ## Project Setup
 
