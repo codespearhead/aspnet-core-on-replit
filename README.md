@@ -12,25 +12,25 @@
 
 <br>
 
-## QuickStart
+## Quickstart Guide
 
 > **Note**: this project is set to use the latest LTS version of the .NET SDK
 
 1. Fork this repository
 2. Click the run button
-3. Inform the name of your solution when prompted in the terminal
+3. Type the desired name of your solution when prompted in the terminal
 4. Click the run button again to start the project
 
 ## How it works
 
 - **replit.nix**: sets the version of the .NET SDK
-- **.replit**: makes run button execute file runner.bash
-- **runner.bash**: creates ASP.NET Core solution or run it if it already exists
-- **project_name.replit**: saves the name of your solution
+- **.replit**: makes the run button execute file `runner.bash`
+- **runner.bash**: creates a new ASP.NET Core solution or run the existing one
+- **project_name.replit**: stores the name of the created solution
 
 ## Credits
 
-This template was only made possible because of previous efforts of [AndrewAung11](https://replit.com/@AndrewAung11/ASPNET) and [MonkSoul](https://replit.com/@MonkSoul/ASPNET-6-MVC) into the matter.
+This template builds on the prior work of [AndrewAung11](https://replit.com/@AndrewAung11/ASPNET) and [MonkSoul](https://replit.com/@MonkSoul/ASPNET-6-MVC).
 
 ## Disclaimers
 
