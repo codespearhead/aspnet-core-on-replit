@@ -17,10 +17,10 @@
 > [!NOTE]
 > This project is set to use the latest LTS version of the .NET SDK
 
-1. Fork this repository
-2. Click the run button
-3. Type the desired name of your solution when prompted in the terminal
-4. Click the run button again to start the project
+1. Fork this repository.
+2. Click the run button.
+3. Type the desired name of your solution when prompted in the terminal.
+4. Click the run button again to start the project.
 
 ## Project Setup
 
