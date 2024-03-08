@@ -22,9 +22,9 @@
 [![Run on Repl.it](https://repl.it/badge/github/Ta180m/Python-Resources)](https://replit.com/@codespearhead/ASPNET-Core)
 
 2. Click the 'Use this Template' button.
-3. Click the run button.
+3. Click the 'Run' button.
 4. Type the desired name of your project when prompted in the terminal.
-5. Click the run button again to start the project.
+5. Click the 'Run' button again to start the project.
 
 ## Project Setup
 
